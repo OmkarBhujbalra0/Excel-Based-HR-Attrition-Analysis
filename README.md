@@ -67,4 +67,4 @@ Microsoft Excel
 Employee attrition is strongly influenced by overtime, job satisfaction, and work–life balance. By addressing workload management and employee well-being, organizations can reduce attrition and improve long-term workforce stability.
 
 ## Dataset
-[!Dataset Link](https://www.kaggle.com/datasets/patelprashant/employee-attrition)
+[Dataset Link](https://www.kaggle.com/datasets/patelprashant/employee-attrition)
