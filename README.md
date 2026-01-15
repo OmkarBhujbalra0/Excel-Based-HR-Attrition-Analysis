@@ -47,7 +47,7 @@ Microsoft Excel
 - Job Satisfaction vs Attrition
 
 ## Dashboard
-[![Image]()](https://github.com/OmkarBhujbalra0/Excel-Based-HR-Attrition-Analysis/blob/d440f17a0399acceb86c74cde2ac20313ad4a81f/Screenshot%202026-01-15%20125531.png)
+[![Image]()](Screenshot%202026-01-15%20125531.png)
 
 ## Key Insights
 
