@@ -46,6 +46,8 @@ Microsoft Excel
 - Overtime vs Attrition
 - Job Satisfaction vs Attrition
 
+## Dashboard
+![Image]()
 
 ## Key Insights
 
