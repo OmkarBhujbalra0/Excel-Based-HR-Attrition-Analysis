@@ -47,7 +47,7 @@ Microsoft Excel
 - Job Satisfaction vs Attrition
 
 ## Dashboard
-[![Image]()](Screenshot%202026-01-15%20125531.png)
+![Image](Screenshot%202026-01-15%20125531.png)
 
 ## Key Insights
 
